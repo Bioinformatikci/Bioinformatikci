@@ -1,56 +1,26 @@
-# Hi, I'm Burak Keskin
+# Bioinformatikci
 
-**Bioinformatics & Systems Biology Master's Student** at **Gebze Technical University**
+I build reproducible bioinformatics workflows and publication-ready RNA-seq visualizations.
 
-I am a biologist moving deeper into computational biology and data analysis. My work focuses on transcriptomics, alternative splicing, neurodegenerative disease biology, and reproducible bioinformatics workflows.
+## Focus Areas
 
----
-
-## Current Research Focus
-
-I am currently working as a scholarship researcher on a **TUBITAK 1001** project focused on Alzheimer's disease.
-
-- **Focus:** personalized alternative splicing defects in Alzheimer's disease
-- **Methods:** RNA-seq analysis, transcript quantification, splicing workflow design, and systems biology interpretation
-- **Goal:** connect transcriptomic changes with disease-relevant biological mechanisms and candidate biomarkers
-
----
-
-## Technical Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-
-### Bioinformatics
-
-- RNA-seq and transcriptomics: Salmon, DESeq2, DEXSeq, rMATS, SUPPA2
-- Metabolic modeling and systems biology: Human-GEM, GEMsplice, iMAT-style workflows
-- Data analysis: pandas, NumPy, SciPy, Bioconductor
-- Visualization: matplotlib, seaborn, ggplot2, pheatmap
-
----
+- RNA-seq differential expression analysis
+- Alternative splicing analysis
+- Publication-ready plots: PCA, heatmap, volcano plot, Sashimi plot
+- Functional enrichment and pathway analysis
+- Python/Bash automation for wet-lab workflows
 
 ## Featured Work
 
-- **Bioinformatics portfolio projects:** selected coursework, Python scripts, Shiny apps, and RNA-seq workflow notes
-- **GEMsplice HumanGEM Alzheimer analysis:** curated Alzheimer/control metabolic-modeling analysis with selected code, figures, tables, and final report
+- [RNA-seq Workflow](https://github.com/Bioinformatikci/rna-seq-workflow)  
+  A reproducible RNA-seq analysis workflow with scripts, result tables, plots, and a short report.
 
----
+- [Bioinformatics Portfolio Projects](https://github.com/Bioinformatikci/bioinformatics-portfolio-projects)  
+  A collection of learning and portfolio projects in bioinformatics.
 
-## Interests
+- [GEMsplice HumanGEM Alzheimer Analysis](https://github.com/Bioinformatikci/gemsplice-humangem-alzheimer-analysis)  
+  A curated research-oriented workflow for Alzheimer/control metabolic-modeling analysis.
 
-- Transcriptomics and alternative splicing
-- Neurodegenerative diseases, especially Alzheimer's disease
-- Reproducible analysis pipelines and clear scientific reporting
-- Systems biology and genome-scale metabolic models
+## Tools
 
----
-
-## Contact
-
-- LinkedIn: [burak-k-42709a121](https://www.linkedin.com/in/burak-k-42709a121)
-- Email: [burakkeskinin@gmail.com](mailto:burakkeskinin@gmail.com)
+R, Python, Bash, DESeq2, rMATS, SUPPA2, ggplot2, pheatmap, Git, Linux
