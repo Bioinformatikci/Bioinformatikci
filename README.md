@@ -1,48 +1,56 @@
-### Hi there, I'm Burak 👋
+# Hi, I'm Burak Keskin
 
-**Bioinformatics & Systems Biology Master's Student** *Gebze Technical University*
+**Bioinformatics & Systems Biology Master's Student** at **Gebze Technical University**
 
-I am a biologist turning into a data scientist. With a strong foundation in fundamental biology from **Hacettepe University**, I am currently bridging the gap between wet-lab biology and computational analysis. My focus is on transcriptomics, neurodegenerative diseases, and unraveling the complexity of gene expression.
-
----
-
-### 🔭 Current Research & Focus
-
-I am currently working as a **Scholarship Researcher** on a **TÜBİTAK 1001 Project**.
-
-* **Focus:** Investigating personalized **Alternative Splicing** defects in **Alzheimer's Disease**.
-* **Methodology:** Analyzing RNA-Seq data to predict splicing variations and potential biomarkers.
-* **Goal:** To understand the molecular mechanisms behind neurodegeneration using systems biology approaches.
+I am a biologist moving deeper into computational biology and data analysis. My work focuses on transcriptomics, alternative splicing, neurodegenerative disease biology, and reproducible bioinformatics workflows.
 
 ---
 
-### 🛠️ Technical Stack
+## Current Research Focus
 
-**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+I am currently working as a scholarship researcher on a **TUBITAK 1001** project focused on Alzheimer's disease.
 
-**Bioinformatics Tools & Libraries** * **RNA-Seq Analysis:** Salmon, DEXSeq, rMATS, SUPPA2
-* **Data Analysis:** Pandas, NumPy, SciPy
-* **Visualization:** Matplotlib, Seaborn, ggplot2
-
-**Operating System** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Focus:** personalized alternative splicing defects in Alzheimer's disease
+- **Methods:** RNA-seq analysis, transcript quantification, splicing workflow design, and systems biology interpretation
+- **Goal:** connect transcriptomic changes with disease-relevant biological mechanisms and candidate biomarkers
 
 ---
 
-### 🧬 Philosophy & Interests
+## Technical Stack
 
-Beyond the terminal, I explore the theoretical boundaries of life and consciousness.
-* **Philosophy:** Deeply interested in Existentialism and Nietzschean philosophy.
-* **Hobbies:** Strategic role-playing games (D&D 5e) and analyzing complex lore in fiction.
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+
+### Bioinformatics
+
+- RNA-seq and transcriptomics: Salmon, DESeq2, DEXSeq, rMATS, SUPPA2
+- Metabolic modeling and systems biology: Human-GEM, GEMsplice, iMAT-style workflows
+- Data analysis: pandas, NumPy, SciPy, Bioconductor
+- Visualization: matplotlib, seaborn, ggplot2, pheatmap
 
 ---
 
-### 📫 Connect with Me
+## Featured Work
 
-<a href="www.linkedin.com/in/burak-k-42709a121">
-  <img align="left" alt="Burak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:burakkeskinin@gmail.com">
-  <img align="left" alt="Burak's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+- **Bioinformatics portfolio projects:** selected coursework, Python scripts, Shiny apps, and RNA-seq workflow notes
+- **GEMsplice HumanGEM Alzheimer analysis:** curated Alzheimer/control metabolic-modeling analysis with selected code, figures, tables, and final report
 
-<br />
+---
+
+## Interests
+
+- Transcriptomics and alternative splicing
+- Neurodegenerative diseases, especially Alzheimer's disease
+- Reproducible analysis pipelines and clear scientific reporting
+- Systems biology and genome-scale metabolic models
+
+---
+
+## Contact
+
+- LinkedIn: [burak-k-42709a121](https://www.linkedin.com/in/burak-k-42709a121)
+- Email: [burakkeskinin@gmail.com](mailto:burakkeskinin@gmail.com)
