@@ -21,6 +21,9 @@ I build reproducible bioinformatics workflows and publication-ready RNA-seq visu
 - [GEMsplice HumanGEM Alzheimer Analysis](https://github.com/Bioinformatikci/gemsplice-humangem-alzheimer-analysis)  
   A curated research-oriented workflow for Alzheimer/control metabolic-modeling analysis.
 
+- [Insights From BioData](https://github.com/Bioinformatikci/insights-from-biodata)  
+  A single-page bioinformatics service site focused on RNA-seq, alternative splicing, pathway interpretation, and publication-ready visualizations.
+
 ## Tools
 
 R, Python, Bash, DESeq2, rMATS, SUPPA2, ggplot2, pheatmap, Git, Linux
